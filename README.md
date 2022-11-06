@@ -1,16 +1,6 @@
-# objek_wisataa
+Nama  : Lucky Maulinda Arum
+Kelas : IK-2A
+Nim   : 3.34.21.0.13
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![wadukseloromo](https://user-images.githubusercontent.com/117344778/200167921-21fae6f3-588a-4590-802d-e6931557991b.jpeg)
